@@ -4,7 +4,6 @@ Alpha Version 0.1
 -- Trying to change things a little bit before I do it a lot
 
 GENERAL
-	Added SWEP.Primary.Wobble. Unlike Recoil, effects how intense the aim wobble after firing is.
 	Added inaccuracy when in the air and accuracy when crouched. Also changes recoil the same way.
 	Added gradual inaccuracy when firing.
 
