@@ -12,6 +12,7 @@ some sort of ttt addon to make weapons feel better and not be stupid
   Because it was stupidly powerful at medium ranges. Yes, it would be like that in real life, but this is a vidya gamme, it'll be more fun if it was more of a close-range weapon.
   
 * why did you buff the HUGE, everyone knows it's a trash weapon so nobody cares about it
+
   Apparently it has a really high skill ceiling according to a dude I play with sometimes. I decided to buff it to raise the skill floor just enough to encourage people to give a shot at no-lifing it.
 
 # Current Changelog
